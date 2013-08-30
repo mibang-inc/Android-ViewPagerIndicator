@@ -1,0 +1,150 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BaseSampleActivity	src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^public abstract class BaseSampleActivity extends FragmentActivity {$/;"	c
+CONTENT	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^    private static final String[] CONTENT = new String[] { "Recent", "Artists", "Albums", "Songs", "Playlists", "Genres" };$/;"	f	class:SampleTabsDefault	file:
+CONTENT	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^    private static final String[] CONTENT = new String[] { "Recent", "Artists", "Albums", "Songs", "Playlists", "Genres" };$/;"	f	class:SampleTabsStyled	file:
+CONTENT	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^    private static final String[] CONTENT = new String[] { "Calendar", "Camera", "Alarms", "Location" };$/;"	f	class:SampleTabsWithIcons	file:
+CONTENT	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    protected static final String[] CONTENT = new String[] { "This", "Is", "A", "Test", };$/;"	f	class:TestFragmentAdapter
+GoogleMusicAdapter	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^        public GoogleMusicAdapter(FragmentManager fm) {$/;"	m	class:SampleTabsDefault.GoogleMusicAdapter
+GoogleMusicAdapter	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^    class GoogleMusicAdapter extends FragmentPagerAdapter {$/;"	c	class:SampleTabsDefault
+GoogleMusicAdapter	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^        public GoogleMusicAdapter(FragmentManager fm) {$/;"	m	class:SampleTabsStyled.GoogleMusicAdapter
+GoogleMusicAdapter	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^    class GoogleMusicAdapter extends FragmentPagerAdapter {$/;"	c	class:SampleTabsStyled
+GoogleMusicAdapter	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        public GoogleMusicAdapter(FragmentManager fm) {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+GoogleMusicAdapter	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^    class GoogleMusicAdapter extends FragmentPagerAdapter implements IconPagerAdapter {$/;"	c	class:SampleTabsWithIcons
+ICONS	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^    private static final int[] ICONS = new int[] {$/;"	f	class:SampleTabsWithIcons	file:
+ICONS	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    protected static final int[] ICONS = new int[] {$/;"	f	class:TestFragmentAdapter
+KEY_CONTENT	src/com/viewpagerindicator/sample/TestFragment.java	/^    private static final String KEY_CONTENT = "TestFragment:Content";$/;"	f	class:TestFragment	file:
+ListSamples	src/com/viewpagerindicator/sample/ListSamples.java	/^public class ListSamples extends ListActivity {$/;"	c
+NAME_COMPARATOR	src/com/viewpagerindicator/sample/ListSamples.java	/^    private final static Comparator<Map<String, Object>> NAME_COMPARATOR =$/;"	f	class:ListSamples	file:
+RANDOM	src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    private static final Random RANDOM = new Random();$/;"	f	class:BaseSampleActivity	file:
+SampleCirclesDefault	src/com/viewpagerindicator/sample/SampleCirclesDefault.java	/^public class SampleCirclesDefault extends BaseSampleActivity {$/;"	c
+SampleCirclesInitialPage	src/com/viewpagerindicator/sample/SampleCirclesInitialPage.java	/^public class SampleCirclesInitialPage extends BaseSampleActivity {$/;"	c
+SampleCirclesSnap	src/com/viewpagerindicator/sample/SampleCirclesSnap.java	/^public class SampleCirclesSnap extends BaseSampleActivity {$/;"	c
+SampleCirclesStyledLayout	src/com/viewpagerindicator/sample/SampleCirclesStyledLayout.java	/^public class SampleCirclesStyledLayout extends BaseSampleActivity {$/;"	c
+SampleCirclesStyledMethods	src/com/viewpagerindicator/sample/SampleCirclesStyledMethods.java	/^public class SampleCirclesStyledMethods extends BaseSampleActivity {$/;"	c
+SampleCirclesStyledTheme	src/com/viewpagerindicator/sample/SampleCirclesStyledTheme.java	/^public class SampleCirclesStyledTheme extends BaseSampleActivity {$/;"	c
+SampleCirclesWithListener	src/com/viewpagerindicator/sample/SampleCirclesWithListener.java	/^public class SampleCirclesWithListener extends BaseSampleActivity {$/;"	c
+SampleIconsDefault	src/com/viewpagerindicator/sample/SampleIconsDefault.java	/^public class SampleIconsDefault extends BaseSampleActivity {$/;"	c
+SampleLinesDefault	src/com/viewpagerindicator/sample/SampleLinesDefault.java	/^public class SampleLinesDefault extends BaseSampleActivity {$/;"	c
+SampleLinesStyledLayout	src/com/viewpagerindicator/sample/SampleLinesStyledLayout.java	/^public class SampleLinesStyledLayout extends BaseSampleActivity {$/;"	c
+SampleLinesStyledMethods	src/com/viewpagerindicator/sample/SampleLinesStyledMethods.java	/^public class SampleLinesStyledMethods extends BaseSampleActivity {$/;"	c
+SampleLinesStyledTheme	src/com/viewpagerindicator/sample/SampleLinesStyledTheme.java	/^public class SampleLinesStyledTheme extends BaseSampleActivity {$/;"	c
+SampleTabsDefault	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^public class SampleTabsDefault extends FragmentActivity {$/;"	c
+SampleTabsStyled	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^public class SampleTabsStyled extends FragmentActivity {$/;"	c
+SampleTabsWithIcons	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^public class SampleTabsWithIcons extends FragmentActivity {$/;"	c
+SampleTitlesBottom	src/com/viewpagerindicator/sample/SampleTitlesBottom.java	/^public class SampleTitlesBottom extends BaseSampleActivity {$/;"	c
+SampleTitlesCenterClickListener	src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java	/^public class SampleTitlesCenterClickListener extends BaseSampleActivity implements OnCenterItemClickListener {$/;"	c
+SampleTitlesDefault	src/com/viewpagerindicator/sample/SampleTitlesDefault.java	/^public class SampleTitlesDefault extends BaseSampleActivity {$/;"	c
+SampleTitlesInitialPage	src/com/viewpagerindicator/sample/SampleTitlesInitialPage.java	/^public class SampleTitlesInitialPage extends BaseSampleActivity {$/;"	c
+SampleTitlesStyledLayout	src/com/viewpagerindicator/sample/SampleTitlesStyledLayout.java	/^public class SampleTitlesStyledLayout extends BaseSampleActivity {$/;"	c
+SampleTitlesStyledMethods	src/com/viewpagerindicator/sample/SampleTitlesStyledMethods.java	/^public class SampleTitlesStyledMethods extends BaseSampleActivity {$/;"	c
+SampleTitlesStyledTheme	src/com/viewpagerindicator/sample/SampleTitlesStyledTheme.java	/^public class SampleTitlesStyledTheme extends BaseSampleActivity {$/;"	c
+SampleTitlesTriangle	src/com/viewpagerindicator/sample/SampleTitlesTriangle.java	/^public class SampleTitlesTriangle extends BaseSampleActivity {$/;"	c
+SampleTitlesWithListener	src/com/viewpagerindicator/sample/SampleTitlesWithListener.java	/^public class SampleTitlesWithListener extends BaseSampleActivity {$/;"	c
+SampleUnderlinesDefault	src/com/viewpagerindicator/sample/SampleUnderlinesDefault.java	/^public class SampleUnderlinesDefault extends BaseSampleActivity {$/;"	c
+SampleUnderlinesNoFade	src/com/viewpagerindicator/sample/SampleUnderlinesNoFade.java	/^public class SampleUnderlinesNoFade extends BaseSampleActivity {$/;"	c
+SampleUnderlinesStyledLayout	src/com/viewpagerindicator/sample/SampleUnderlinesStyledLayout.java	/^public class SampleUnderlinesStyledLayout extends BaseSampleActivity {$/;"	c
+SampleUnderlinesStyledMethods	src/com/viewpagerindicator/sample/SampleUnderlinesStyledMethods.java	/^public class SampleUnderlinesStyledMethods extends BaseSampleActivity {$/;"	c
+SampleUnderlinesStyledTheme	src/com/viewpagerindicator/sample/SampleUnderlinesStyledTheme.java	/^public class SampleUnderlinesStyledTheme extends BaseSampleActivity {$/;"	c
+TestFragment	src/com/viewpagerindicator/sample/TestFragment.java	/^public final class TestFragment extends Fragment {$/;"	c
+TestFragmentAdapter	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public TestFragmentAdapter(FragmentManager fm) {$/;"	m	class:TestFragmentAdapter
+TestFragmentAdapter	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^class TestFragmentAdapter extends FragmentPagerAdapter implements IconPagerAdapter {$/;"	c
+activityIntent	src/com/viewpagerindicator/sample/ListSamples.java	/^    protected Intent activityIntent(String pkg, String componentName) {$/;"	m	class:ListSamples
+addItem	src/com/viewpagerindicator/sample/ListSamples.java	/^    protected void addItem(List<Map<String, Object>> data, String name, Intent intent) {$/;"	m	class:ListSamples
+browseIntent	src/com/viewpagerindicator/sample/ListSamples.java	/^    protected Intent browseIntent(String path) {$/;"	m	class:ListSamples
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/ListSamples.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleCirclesDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleCirclesInitialPage.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleCirclesSnap.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleCirclesStyledLayout.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleCirclesStyledMethods.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleCirclesStyledTheme.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleCirclesWithListener.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleIconsDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleLinesDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleLinesStyledLayout.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleLinesStyledMethods.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleLinesStyledTheme.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesBottom.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesInitialPage.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesStyledLayout.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesStyledMethods.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesStyledTheme.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesTriangle.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleTitlesWithListener.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleUnderlinesDefault.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleUnderlinesNoFade.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleUnderlinesStyledLayout.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleUnderlinesStyledMethods.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/SampleUnderlinesStyledTheme.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/TestFragment.java	/^package com.viewpagerindicator.sample;$/;"	p
+com.viewpagerindicator.sample	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^package com.viewpagerindicator.sample;$/;"	p
+getCount	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^        public int getCount() {$/;"	m	class:SampleTabsDefault.GoogleMusicAdapter
+getCount	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^        public int getCount() {$/;"	m	class:SampleTabsStyled.GoogleMusicAdapter
+getCount	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        public int getCount() {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+getCount	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public int getCount() {$/;"	m	class:TestFragmentAdapter
+getData	src/com/viewpagerindicator/sample/ListSamples.java	/^    protected List<Map<String, Object>> getData(String prefix) {$/;"	m	class:ListSamples
+getIconResId	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        @Override public int getIconResId(int index) {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+getIconResId	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public int getIconResId(int index) {$/;"	m	class:TestFragmentAdapter
+getItem	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^        public Fragment getItem(int position) {$/;"	m	class:SampleTabsDefault.GoogleMusicAdapter
+getItem	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^        public Fragment getItem(int position) {$/;"	m	class:SampleTabsStyled.GoogleMusicAdapter
+getItem	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        public Fragment getItem(int position) {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+getItem	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public Fragment getItem(int position) {$/;"	m	class:TestFragmentAdapter
+getPageTitle	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^        public CharSequence getPageTitle(int position) {$/;"	m	class:SampleTabsDefault.GoogleMusicAdapter
+getPageTitle	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^        public CharSequence getPageTitle(int position) {$/;"	m	class:SampleTabsStyled.GoogleMusicAdapter
+getPageTitle	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^        public CharSequence getPageTitle(int position) {$/;"	m	class:SampleTabsWithIcons.GoogleMusicAdapter
+getPageTitle	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public CharSequence getPageTitle(int position) {$/;"	m	class:TestFragmentAdapter
+mAdapter	src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    TestFragmentAdapter mAdapter;$/;"	f	class:BaseSampleActivity
+mContent	src/com/viewpagerindicator/sample/TestFragment.java	/^    private String mContent = "???";$/;"	f	class:TestFragment	file:
+mCount	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    private int mCount = CONTENT.length;$/;"	f	class:TestFragmentAdapter	file:
+mIndicator	src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    PageIndicator mIndicator;$/;"	f	class:BaseSampleActivity
+mPager	src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    ViewPager mPager;$/;"	f	class:BaseSampleActivity
+newInstance	src/com/viewpagerindicator/sample/TestFragment.java	/^    public static TestFragment newInstance(String content) {$/;"	m	class:TestFragment
+onCenterItemClick	src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java	/^    public void onCenterItemClick(int position) {$/;"	m	class:SampleTitlesCenterClickListener
+onCreate	src/com/viewpagerindicator/sample/ListSamples.java	/^    public void onCreate(Bundle savedInstanceState) {$/;"	m	class:ListSamples
+onCreate	src/com/viewpagerindicator/sample/SampleCirclesDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesDefault
+onCreate	src/com/viewpagerindicator/sample/SampleCirclesInitialPage.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesInitialPage
+onCreate	src/com/viewpagerindicator/sample/SampleCirclesSnap.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesSnap
+onCreate	src/com/viewpagerindicator/sample/SampleCirclesStyledLayout.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesStyledLayout
+onCreate	src/com/viewpagerindicator/sample/SampleCirclesStyledMethods.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesStyledMethods
+onCreate	src/com/viewpagerindicator/sample/SampleCirclesStyledTheme.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesStyledTheme
+onCreate	src/com/viewpagerindicator/sample/SampleCirclesWithListener.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleCirclesWithListener
+onCreate	src/com/viewpagerindicator/sample/SampleIconsDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleIconsDefault
+onCreate	src/com/viewpagerindicator/sample/SampleLinesDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleLinesDefault
+onCreate	src/com/viewpagerindicator/sample/SampleLinesStyledLayout.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleLinesStyledLayout
+onCreate	src/com/viewpagerindicator/sample/SampleLinesStyledMethods.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleLinesStyledMethods
+onCreate	src/com/viewpagerindicator/sample/SampleLinesStyledTheme.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleLinesStyledTheme
+onCreate	src/com/viewpagerindicator/sample/SampleTabsDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTabsDefault
+onCreate	src/com/viewpagerindicator/sample/SampleTabsStyled.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTabsStyled
+onCreate	src/com/viewpagerindicator/sample/SampleTabsWithIcons.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTabsWithIcons
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesBottom.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesBottom
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesCenterClickListener.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesCenterClickListener
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesDefault
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesInitialPage.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesInitialPage
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesStyledLayout.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesStyledLayout
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesStyledMethods.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesStyledMethods
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesStyledTheme.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesStyledTheme
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesTriangle.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesTriangle
+onCreate	src/com/viewpagerindicator/sample/SampleTitlesWithListener.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleTitlesWithListener
+onCreate	src/com/viewpagerindicator/sample/SampleUnderlinesDefault.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesDefault
+onCreate	src/com/viewpagerindicator/sample/SampleUnderlinesNoFade.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesNoFade
+onCreate	src/com/viewpagerindicator/sample/SampleUnderlinesStyledLayout.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesStyledLayout
+onCreate	src/com/viewpagerindicator/sample/SampleUnderlinesStyledMethods.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesStyledMethods
+onCreate	src/com/viewpagerindicator/sample/SampleUnderlinesStyledTheme.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:SampleUnderlinesStyledTheme
+onCreate	src/com/viewpagerindicator/sample/TestFragment.java	/^    public void onCreate(Bundle savedInstanceState) {$/;"	m	class:TestFragment
+onCreateOptionsMenu	src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    public boolean onCreateOptionsMenu(Menu menu) {$/;"	m	class:BaseSampleActivity
+onCreateView	src/com/viewpagerindicator/sample/TestFragment.java	/^    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {$/;"	m	class:TestFragment
+onListItemClick	src/com/viewpagerindicator/sample/ListSamples.java	/^    protected void onListItemClick(ListView l, View v, int position, long id) {$/;"	m	class:ListSamples
+onOptionsItemSelected	src/com/viewpagerindicator/sample/BaseSampleActivity.java	/^    public boolean onOptionsItemSelected(MenuItem item) {$/;"	m	class:BaseSampleActivity
+onSaveInstanceState	src/com/viewpagerindicator/sample/TestFragment.java	/^    public void onSaveInstanceState(Bundle outState) {$/;"	m	class:TestFragment
+setCount	src/com/viewpagerindicator/sample/TestFragmentAdapter.java	/^    public void setCount(int count) {$/;"	m	class:TestFragmentAdapter
