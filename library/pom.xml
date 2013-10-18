@@ -8,7 +8,7 @@
 	<packaging>apklib</packaging>
 
 	<parent>
-		<groupId>com.viewpagerindicator</groupId>
+		<groupId>rms.viewpagerindicator</groupId>
 		<artifactId>parent</artifactId>
 		<version>2.4.1</version>
 		<relativePath>../pom.xml</relativePath>
@@ -21,10 +21,25 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>com.google.android</groupId>
-			<artifactId>support-v4</artifactId>
-		</dependency>
+        <dependency>
+            <groupId>android.support</groupId>
+            <artifactId>compatibility-v4</artifactId>
+            <version>18</version>
+        </dependency>
+
+        <dependency>
+            <groupId>android.support</groupId>
+            <artifactId>compatibility-v7-appcompat</artifactId>
+            <version>18</version>
+            <type>jar</type>
+        </dependency>
+
+        <dependency>
+            <groupId>android.support</groupId>
+            <artifactId>compatibility-v7-appcompat</artifactId>
+            <version>18</version>
+            <type>apklib</type>
+        </dependency>
 
 	</dependencies>
 

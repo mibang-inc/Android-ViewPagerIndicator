@@ -20,7 +20,7 @@
         <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
     </style>
 
-    <style name="Theme.Light.NoTitleBar.PageIndicatorDefaults" parent="@android:style/Theme.Light.NoTitleBar">
+    <style name="Theme.Light.NoTitleBar.PageIndicatorDefaults" parent="@style/Theme.AppCompat.Light">
         <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
         <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
     </style>
@@ -36,8 +36,7 @@
         <item name="android:paddingTop">12dp</item>
         <item name="android:paddingBottom">12dp</item>
         <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
-        <!--<item name="android:textSize">12sp</item>-->
-        <item name="android:textSize">18sp</item>
+        <item name="android:textSize">12sp</item>
         <item name="android:maxLines">1</item>
     </style>
 
