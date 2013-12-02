@@ -9,7 +9,7 @@
         <version>7</version>
     </parent>
 
-    <groupId>rms.viewpagerindicator</groupId>
+    <groupId>com.meishixing</groupId>
     <artifactId>parent</artifactId>
     <packaging>pom</packaging>
     <version>2.4.1</version>
