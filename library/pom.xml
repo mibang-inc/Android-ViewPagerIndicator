@@ -2,7 +2,7 @@
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	
+
 	<groupId>com.meishixing</groupId>
 	<artifactId>Android-ViewPagerIndicator</artifactId>
 	<name>Android-ViewPagerIndicator</name>
@@ -14,7 +14,7 @@
 		<version>2.4.1</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
-	
+
 	<dependencies>
 		<dependency>
 			<groupId>com.google.android</groupId>
@@ -27,21 +27,6 @@
             <artifactId>compatibility-v4</artifactId>
             <version>18</version>
         </dependency>
-
-        <dependency>
-            <groupId>android.support</groupId>
-            <artifactId>compatibility-v7-appcompat</artifactId>
-            <version>18</version>
-            <type>jar</type>
-        </dependency>
-
-        <dependency>
-            <groupId>android.support</groupId>
-            <artifactId>compatibility-v7-appcompat</artifactId>
-            <version>18</version>
-            <type>apklib</type>
-        </dependency>
-
 	</dependencies>
 
 	<build>
