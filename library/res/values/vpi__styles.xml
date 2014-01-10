@@ -15,15 +15,20 @@
 -->
 
 <resources>
-    <style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+    <style name="PageIndicatorDefaults">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+	    <item name="android:colorBackground">@color/vpi__background_light</item>
+        <item name="android:colorForeground">@color/vpi__bright_foreground_light</item>
+    </style>
+    <style name="Theme.PageIndicatorDefaults" parent="android:style/Theme.Light">
         <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
         <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
     </style>
-
     <style name="Theme.Light.NoTitleBar.PageIndicatorDefaults" parent="@android:style/Theme.Light.NoTitleBar">
         <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
         <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
-	`   <item name="android:windowNoTitle">true</item>
+	<item name="android:windowNoTitle">true</item>
     </style>
 
     <style name="Widget">
